@@ -31,8 +31,9 @@ public class BrowserLaunch {
 		}
 		
 		tcsu.driver.get(url);
-		System.out.println("GitHud Practice");
+		System.out.println("GitHub Practice");
 		System.out.println("GitHub uploading and downloading");
+		System.out.println("Hello GitHub");
 	}
 	
 }
